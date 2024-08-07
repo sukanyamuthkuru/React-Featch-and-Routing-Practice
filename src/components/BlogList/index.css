@@ -1,0 +1,7 @@
+/* Write your CSS code here */
+.list-container {
+  list-style-type: none;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}

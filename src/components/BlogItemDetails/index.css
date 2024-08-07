@@ -1,0 +1,45 @@
+.details-app-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+}
+.details-container {
+  display: flex;
+  flex-direction: column;
+
+  max-width: 80vw;
+}
+.details-heading {
+  color: #000000;
+  font-family: 'Roboto';
+  text-align: center;
+}
+.avtar-and-author-details-container {
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+}
+.avatar-details {
+  max-width: 50px;
+  max-height: 50px;
+  border-radius: 30px;
+  margin-right: 20px;
+}
+.avatar-details-para {
+  color: #2f4f4f;
+  font-family: 'Roboto';
+}
+.image-container-details {
+  max-width: 60vw;
+  margin-top: 20px;
+}
+.details-image {
+  max-width: 50vw;
+  border-radius: 20px;
+}
+.content-details {
+  color: #2f4f4f;
+  font-family: 'Roboto';
+}
